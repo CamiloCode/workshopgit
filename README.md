@@ -26,7 +26,9 @@ git status
 
 git add *
 
-7. git commit -m "message you want to write about"
+7. Commit your changes
+
+git commit -m "message you want to write about"
 
 8. upload your changes to main repository
 
@@ -35,4 +37,6 @@ git push origin my_new_branch
 9. Check in github.com that your changes are uploaded
 
 10. Create a pull request
+
+11. Keep practising!!! :)
  
