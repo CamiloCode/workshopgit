@@ -8,6 +8,8 @@ Steps:
 
  git clone https://github.com/CamiloCode/workshopgit.git
 
+ cd workshopgit
+
 2. Create a branch 
 
 git checkout -b my_new_branch
